@@ -1,5 +1,3 @@
-![https://wallpapercave.com/wp/wp9641893.jpg](https://wallpapercave.com/wp/wp9641893.jpg)
-
 <h1 align="center">Hi 👋, I'm Komol Chandra Devnath</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
 
@@ -14,39 +12,42 @@ requirements. Always strive to create expandable,efficient solutions by followin
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
-<h4 dir="auto"><a id="user-content-other-skills--videos" class="anchor" aria-hidden="true" href="#other-skills--videos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Other Skills</h4>
-<ul dir="auto">
-<li>
-<p dir="auto"><a href="https://www.markdownguide.org/" rel="nofollow">Markdown Language</a></p>
-</li>
-<li>
-<p dir="auto"><a href="#" rel="nofollow">Operating System (Linux)</a></p>
-</li>
-  <li>
-<p dir="auto"><a href="#" rel="nofollow">Chrome Dev Tool</a></p>
-</li>
-    <li>
-<p dir="auto"><a href="#" rel="nofollow">VS Code</a></p>
-</li>
-<li>
-<p dir="auto"><a href="#" rel="nofollow">MS Word</a></p>
-</li>
-<li>
-<p dir="auto"><a href="#" rel="nofollow">MS Excel</a></p>
-</li>
- <li>
-<p dir="auto"><a href="#" rel="nofollow">Ms Slides</a></p>
-</li>
-<li>
-<p dir="auto"><a href="#" rel="nofollow">MS powerpoint</a></p>
+<h3 dir="auto"><a id="user-content---education" class="anchor" aria-hidden="true" href="#--education"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>👨🏻&zwj;🎓 &nbsp; Main Skill</h3>
+<table>
+<tbody>
+  <tr>
+<td>PHP</td>
+<td>Laravel</td>
+<td>Javascript</td>
+<td>Jquery</td>
+<td>VueJs</td>
+</tr>
+
+<tr>
+<td>C/C++</td>
+<td>OOP</td>
+<td>Design Patterns</td>
+<td>Mysql</td>
+<td>Git</td>
+</tr>
+
+</tr>
+<td>Docker</td>
+<td>HTML,CSS,Bootstrap</td>
+<td>Data Structure</td>
+<td>Algorithm</td>
+<td>Linux</td>
+</tr>
+
+</tbody>
+</table>
+
 <br>
-</li>
-</ul>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komol-chandra&show_icons=true&locale=en&layout=compact" alt="komol-chandra" /></p>
 
