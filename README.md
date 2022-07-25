@@ -118,7 +118,7 @@ requirements. Always strive to create expandable,efficient solutions by followin
 <td>SSC</td>
 <td>Science</td>
 <td>Feni Central High School</td>
-<td>Sept 2020 – Feb 2016</td>
+<td>2011 – Feb 2016</td>
 <td>Feni, Bangladesh</td>
 </tr>
 </tbody>
@@ -153,6 +153,6 @@ requirements. Always strive to create expandable,efficient solutions by followin
 <hr>
 
 <p dir="auto">Thanks for going through my Portfolio.
-All rights reserved by Anisul Haque Bhuiyan (JAHID) @2022</p>
+All rights reserved by Komol Chandra Devnath @2022</p>
 
 <hr>
