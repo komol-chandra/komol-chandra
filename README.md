@@ -48,9 +48,23 @@ requirements. Always strive to create expandable,efficient solutions by followin
 ---
 
 #### 👷 Check out what I'm currently  working project on
+- [daily247](https://daily247.xyz/) - this is subscription base social media type application . there have many feature like Daily Notes ,Tally Prime,Beton Book,Portfolio,House Rent,Matrimony,Blog,Job,product seller, product reseller, add managent system etc.    (August 2022)
 
-- [girlyshopper](https://girlyshopper.com/) - is an e-commerce platform , which is based on laravel and vue js and used by 70k+ consumers. Developed Laravel and Vue js Based Inventory management to track purchase , Stock and POS Developed On Demand RESTAPI using Node.js Write testable, scalable and efficient code Provided maintenance support in production environment  (May 2021)
+- [viewsoftech](https://viewsoftech.com/) - this is viewsoftech official web application   (July 2022)
+
+- [bluefashion](http://bluefashion.com.bd/) - is an e-commerce platform  used by 30k+ consumers. is the real time enterprise ecommerce using of multivendor , multi shop system. multi variation base product ,user bonous, coupon , admin commission ,product return,
+automatic mail,Payment management, Inventory management to track purchase , Stock and POS etc.  (June 2022)
+
+- [viewfurniturebd](http://viewfurniturebd.com/) - is an e-commerce platform  used by 30k+ consumers. is the real time enterprise ecommerce using of multivendor , multi shop system. multi variation base product ,user bonous, coupon , admin commission ,product return,
+automatic mail,Payment management, Inventory management to track purchase , Stock and POS etc.  (April 2022)
+
+- [eview](http://eview.com.bd/) - is an e-commerce platform  used by 30k+ consumers. is the real time enterprise ecommerce using of multivendor , multi shop system. multi variation base product ,user bonous, coupon , admin commission ,product return,
+automatic mail,Payment management, Inventory management to track purchase , Stock and POS etc.  (January 2022)
+
+- [girlyshopper](https://girlyshopper.com/) - is an e-commerce platform  used by 70k+ consumers. Developed Laravel and Vue js Based Inventory management to track purchase , Stock and POS Developed On Demand RESTAPI using Node.js Write testable, scalable and efficient code Provided maintenance support in production environment  (May 2021)
+
 - [komol-chandra/hospital-management](https://github.com/komol-chandra/hospital-management) - A simple Hospital Management Project with frontend. (July 2020)
+
 - [komol-chandra/School](https://github.com/komol-chandra/School) - School Management System With Frontend Using Laravel 8 , Jquery (April 2020)
 
 ---
@@ -172,6 +186,7 @@ requirements. Always strive to create expandable,efficient solutions by followin
 - Twitter: [@imkiri2ka](https://twitter.com/imkiri2ka)
 - Linkedin: [@kiri2ka](https://www.linkedin.com/in/kiri2ka/)
 - Facebook: [@kiri2ka](https://www.facebook.com/kiri2ka/)
+- Stackoverflow: [@komol-chandra-devnath](https://stackoverflow.com/users/13840862/komol-chandra-devnath)
 - Email: [komolnath67@gmail.com](mailto://komolnath67@gmail.com)
 
 <p dir="auto">Thanks for going through my Portfolio.
