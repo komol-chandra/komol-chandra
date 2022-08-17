@@ -1,8 +1,7 @@
 
 Hi!
 
-I am [Komol Chandra Devnath](https://www.linkedin.com/in/kiri2ka/) A Passionate ,skilled and self-assured Software Professional .Prepared to take risks and make decisions based on scalable performance and
-requirements. Always strive to create expandable,efficient solutions by following clean code and principles, as well as merging and learning from the team as quickly as possible .I am strongly committed to being a solid software engineer and developing efficient software systems. I am interested in building excellent software that improves the lives of those around me, I am spending much time improving my web development skills. Every day I want to learn something new and share my knowledge.
+I am [Komol Chandra Devnath](https://www.linkedin.com/in/kiri2ka/) A passionate, skilled and self-assured software professional. Prepared to take risks and make decisions based on scalable performance and requirements. Always strive to create expandable,efficient solutions by following clean code and principles, as well as merging and learning from the team as quickly as possible .I am strongly committed to being a solid software engineer and developing efficient software systems. I am interested in building excellent software that improves the lives of those around me, I am spending much time improving my web development skills. Every day I want to learn something new and share my knowledge.
 
 ---
 
@@ -93,19 +92,19 @@ automatic mail,Payment management, Inventory management to track purchase , Stoc
 <td>Full Stack Web Developer</td>
 <td> <a href="http://viewsoftech.com/" target="_blank">View Soft Tech</a></td>
 <td>Jan 2022 – Now</td>
-<td>Mirpur-1,Dhaka, Bangladesh</td>
+<td>Mirpur-1, Dhaka, Bangladesh</td>
 </tr>
 <tr>
 <td>Full Stack Web Developer</td>
 <td>SoftArch Ltd.</td>
 <td>Sept 2020 – Dec 2021</td>
-<td>Dhaka, Bangladesh</td>
+<td>Shamoli, Dhaka, Bangladesh</td>
 </tr>
 <tr>
 <td>Web Development (Intern)</td>
 <td><a href="https://www.tmss-ict.com/" target="_blank">TMSS Ict Ltd.</a></td>
 <td>Feb 2020 – June 2020</td>
-<td>Dhaka, Bangladesh</td>
+<td>Mirpur-10, Dhaka, Bangladesh</td>
 </tr>
 </tbody>
 </table>
@@ -132,7 +131,7 @@ automatic mail,Payment management, Inventory management to track purchase , Stoc
 <td>Computer Science &amp; Engineering</td>
 <td>Bangladesh University Of Business and Technology</td>
 <td>Dec 2021 – Now(3rd Semester)</td>
-<td>Dhaka, Bangladesh</td>
+<td>Mirpur-2,Dhaka, Bangladesh</td>
 </tr>
 <tr>
 <td>Diploma</td>
@@ -153,27 +152,29 @@ automatic mail,Payment management, Inventory management to track purchase , Stoc
 
 <br>
 
----
+<hr>
 
-<h3 dir="auto"><a id="user-content-languages" class="anchor" aria-hidden="true" href="#languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Languages:</h3>
-
-<ul dir="auto">
-<li><g-emoji class="g-emoji" alias="bangladesh" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1e9.png"><img class="emoji" alt="bangladesh" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1e9.png"></g-emoji> Bangla : Native</li>
-<li><g-emoji class="g-emoji" alias="england" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png"><img class="emoji" alt="england" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png"></g-emoji> English : Commucative</li>
-<li><g-emoji class="g-emoji" alias="india" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png"><img class="emoji" alt="india" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png"></g-emoji> Hindi : Intermediate</li>
-</ul>
-
-<h3 dir="auto"><a id="user-content-sports--game--activities--hobby" class="anchor" aria-hidden="true" href="#sports--game--activities--hobby"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Sports / Game / Activities / Hobby:</h3>
+####  Languages:
 
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="cricket_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cf.png"><img class="emoji" alt="cricket_game" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3cf.png"></g-emoji> Cricket, <g-emoji class="g-emoji" alias="soccer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26bd.png"><img class="emoji" alt="soccer" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/26bd.png"></g-emoji> Football, <g-emoji class="g-emoji" alias="badminton" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f8.png"><img class="emoji" alt="badminton" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f8.png"></g-emoji> Badminton, <g-emoji class="g-emoji" alias="chess_pawn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/265f.png"><img class="emoji" alt="chess_pawn" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/265f.png"></g-emoji> Chess</li>
-  
-<li><g-emoji class="g-emoji" alias="swimming_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ca-2642.png"><img class="emoji" alt="swimming_man" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ca-2642.png"></g-emoji> Swimming, <g-emoji class="g-emoji" alias="running_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2642.png"><img class="emoji" alt="running_man" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2642.png"></g-emoji> Running, <g-emoji class="g-emoji" alias="walking_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b6-2642.png"><img class="emoji" alt="walking_man" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b6-2642.png"></g-emoji> Walking</li>
-  
-<li><g-emoji class="g-emoji" alias="airplane" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png"><img class="emoji" alt="airplane" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png"></g-emoji> Travelling</li>
+<li> Bangla : Native</li>
+<li> English : Commucative</li>
+<li> Hindi : Intermediate</li>
 </ul>
 
-<h3 dir="auto"><a id="user-content--honors--awards-" class="anchor" aria-hidden="true" href="#-honors--awards-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png"><img class="emoji" alt="medal_sports" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png"></g-emoji> Honors &amp; Awards :</h3>
+<hr>
+
+####  Sports / Game / Activities / Hobby:
+
+<ul dir="auto">
+<li> Cricket, Football, Badminton, Chess</li>
+<li> Swimming, Running, Walking</li>
+<li> Travelling</li>
+</ul>
+
+<hr>
+
+####  Honors & Awards :
 
 <ul dir="auto">
 <li>World Bank Scholarship for good result in Diploma.</li>
