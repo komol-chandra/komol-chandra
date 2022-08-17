@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Komol Chandra Devnath</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
 
-### ![man_teacher](https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png) About Me
+Hi!
 
-An intelligent, skilled, and self-assured software professional. Prepared to take risks and make decisions based on scalable performance and
+I am [Komol Chandra Devnath](https://www.linkedin.com/in/kiri2ka/) A Passionate ,skilled and self-assured Software Professional .Prepared to take risks and make decisions based on scalable performance and
 requirements. Always strive to create expandable,efficient solutions by following clean code and principles, as well as merging and learning from the team as quickly as possible .I am strongly committed to being a solid software engineer and developing efficient software systems. I am interested in building excellent software that improves the lives of those around me, I am spending much time improving my web development skills. Every day I want to learn something new and share my knowledge.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="komol-chandra" height="30" width="40" /></a><a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="komol-chandra" height="30" width="40" /></a><a href="https://www.linkedin.com/in/kiri2ka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrjahid" height="30" width="40" /></a><a href="https://stackoverflow.com/users/13840862/komol-chandra-devnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mrjahid" height="30" width="40" /></a><a href="https://www.facebook.com/kiri2ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahidniladri" height="30" width="40" /></a><a href="https://www.instagram.com/imkiri2ka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahid__bhuiyan" height="30" width="40" /></a>
+---
 
-</p>
+#### 📈 My GitHub Statistics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komol-chandra&show_icons=true&locale=en&layout=compact" alt="komol-chandra" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komol-chandra&show_icons=true&locale=en" alt="komol-chandra" /></p>
 
+---
 
 <h3 dir="auto"><a id="user-content---education" class="anchor" aria-hidden="true" href="#--education"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>👨🏻&zwj;🎓 &nbsp; Main Skill</h3>
 <table>
@@ -46,12 +45,23 @@ requirements. Always strive to create expandable,efficient solutions by followin
 
 <br>
 
+---
+
+#### 👷 Check out what I'm currently  working project on
+
+- [girlyshopper](https://girlyshopper.com/) - is an e-commerce platform , which is based on laravel and vue js and used by 70k+ consumers. Developed Laravel and Vue js Based Inventory management to track purchase , Stock and POS Developed On Demand RESTAPI using Node.js Write testable, scalable and efficient code Provided maintenance support in production environment  (May 2021)
+- [komol-chandra/hospital-management](https://github.com/komol-chandra/hospital-management) - A simple Hospital Management Project with frontend. (July 2020)
+- [komol-chandra/School](https://github.com/komol-chandra/School) - School Management System With Frontend Using Laravel 8 , Jquery (April 2020)
+
+---
+
+#### 👷 Check out my study  projects
 
 
+- [komol-chandra/basic-oop-using-php](https://github.com/komol-chandra/basic-oop-using-php) - Sin this ripo i try to code form " the-essentials-of-object-oriented-php " book. (Sep 24, 2021)
+- [komol-chandra/basic-calculator](https://github.com/komol-chandra/basic-calculator) - A simple calculator using javascript,html,css (June 2021)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komol-chandra&show_icons=true&locale=en&layout=compact" alt="komol-chandra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komol-chandra&show_icons=true&locale=en" alt="komol-chandra" /></p>
+---
 
 <h3 dir="auto"><a id="user-content---employment-history" class="anchor" aria-hidden="true" href="#--employment-history"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png"><img class="emoji" alt="briefcase" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png"></g-emoji> &nbsp; Employment History</h3>
 
@@ -67,7 +77,7 @@ requirements. Always strive to create expandable,efficient solutions by followin
 <tbody>
 <tr>
 <td>Full Stack Web Developer</td>
-<td>View Soft Tech</td>
+<td> <a href="http://viewsoftech.com/" target="_blank">View Soft Tech</a></td>
 <td>Jan 2022 – Now</td>
 <td>Mirpur-1,Dhaka, Bangladesh</td>
 </tr>
@@ -79,7 +89,7 @@ requirements. Always strive to create expandable,efficient solutions by followin
 </tr>
 <tr>
 <td>Web Development (Intern)</td>
-<td>TMSS Ict Ltd.</td>
+<td><a href="https://www.tmss-ict.com/" target="_blank">TMSS Ict Ltd.</a></td>
 <td>Feb 2020 – June 2020</td>
 <td>Dhaka, Bangladesh</td>
 </tr>
@@ -87,6 +97,9 @@ requirements. Always strive to create expandable,efficient solutions by followin
 </table>
 
 <br>
+
+---
+
 <h3 dir="auto"><a id="user-content---education" class="anchor" aria-hidden="true" href="#--education"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>👨🏻&zwj;🎓 &nbsp; Education</h3>
 
 <table>
@@ -126,6 +139,8 @@ requirements. Always strive to create expandable,efficient solutions by followin
 
 <br>
 
+---
+
 <h3 dir="auto"><a id="user-content-languages" class="anchor" aria-hidden="true" href="#languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Languages:</h3>
 
 <ul dir="auto">
@@ -151,6 +166,13 @@ requirements. Always strive to create expandable,efficient solutions by followin
 </ul>
 
 <hr>
+
+#### 📫 How to reach me
+
+- Twitter: [@imkiri2ka](https://twitter.com/imkiri2ka)
+- Linkedin: [@kiri2ka](https://www.linkedin.com/in/kiri2ka/)
+- Facebook: [@kiri2ka](https://www.facebook.com/kiri2ka/)
+- Email: [komolnath67@gmail.com](mailto://komolnath67@gmail.com)
 
 <p dir="auto">Thanks for going through my Portfolio.
 All rights reserved by Komol Chandra Devnath @2022</p>
