@@ -79,7 +79,7 @@ automatic mail,Payment management, Inventory management to track purchase , Stoc
 #### 👷 Check out my js  projects
 
 
-- [komol-chandra/bus-ticket-system-vuejs-3](https://github.com/komol-chandra/bus-ticket-system-vuejs-3) - vue js bus ticket system pos . (Sep 11, 2022)
+- [komol-chandra/bus-ticket-system-vuejs-3](https://github.com/komol-chandra/bus-ticket-system-vuejs-3) - [vue js bus ticket system pos]https://komol-chandra.github.io/bus-ticket-system-vuejs-3/ . (Sep 11, 2022)
 
 
 ---
