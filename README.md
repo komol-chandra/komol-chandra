@@ -1,37 +1,139 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Komol Chandra Devnath</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+# Komol Chandra Devnath
 
-- 🌱 I’m currently learning **nuxtjs**
+**Software Engineer** · Dhaka, Bangladesh
 
-- 💬 Ask me about **Linux,Git, GitHub, PHP, Laravel, Javascript,Jquery, Vue JS, MySQL,Docker**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komol-chandra/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:komolnath67@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/komol-chandra)
 
-- 📫 How to reach me **komolnath67@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kiri2ka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiri2ka/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kiri2ka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kiri2ka/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## About
 
-<h3 align="left">Check out my working project:</h3>
+Software Engineer with **4+ years** of experience building and owning production systems — from multi-store e-commerce platforms and CodeCanyon SaaS products to large-scale, multi-tenant enterprise software serving **100+ clients** and processing **millions of records daily**.
 
-- [girlyshopper](https://girlyshopper.com/) - is an e-commerce platform  used by 70k+ consumers. Developed Laravel and Vue js Based Inventory management to track purchase , Stock and POS Developed On Demand RESTAPI using Node.js Write testable, scalable and efficient code Provided maintenance support in production environment  (May 2021)
+Progressed from full-stack feature development to architecting distributed systems, leading frontend modernisations, and managing deployment infrastructure in production environments. Looking to step into greater technical leadership: driving architecture, managing engineering teams, and delivering measurable impact as a senior contributor.
 
+---
 
-- [daily247](https://daily247.xyz/) - this is subscription base social media type application . there have many feature like Daily Notes ,Tally Prime,Beton Book,Portfolio,House Rent,Matrimony,Blog,Job,product seller, product reseller, add managent system etc.    (August 2022)
+## Tech Stack
 
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-- [bluefashion](http://bluefashion.com.bd/) - is an e-commerce platform  used by 30k+ consumers. is the real time enterprise ecommerce using of multivendor , multi shop system. multi variation base product ,user bonous, coupon , admin commission ,product return,
-  automatic mail,Payment management, Inventory management to track purchase , Stock and POS etc.  (June 2022)
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 
-- [eview](http://eview.com.bd/) - is an e-commerce platform  used by 30k+ consumers. is the real time enterprise ecommerce using of multivendor , multi shop system. multi variation base product ,user bonous, coupon , admin commission ,product return,
-  automatic mail,Payment management, Inventory management to track purchase , Stock and POS etc.  (January 2022)
+**DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=komol-chandra&show_icons=true&locale=en&layout=compact" alt="komol-chandra" /></p>
+**AI / ML**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komol-chandra&" alt="komol-chandra" /></p>
+**Architecture**
+`Microservices` · `Multi-tenant SaaS` · `Event-driven Systems` · `RESTful API Design` · `RAG Pipelines`
+
+---
+
+## Work Experience
+
+### Sokrio · Software Engineer
+
+**2023 – Present · Dhaka, Bangladesh**
+
+> Sokrio is a multi-tenant, real-time **Distribution & Supply Chain Management SaaS** platform serving **100+ enterprise clients**, including Bangladesh Edible Oil Limited (BEOL) — processing millions of records daily.
+
+**Key contributions:**
+
+- **Microservices migration** — Architected the migration from a large Laravel + Vue.js monolith to a microservices architecture; introduced RabbitMQ for async messaging, MongoDB for the reporting layer, and Redis for real-time caching
+- **Frontend modernisation** — Led the full migration from Vue.js → React.js + Next.js within 2 months; introduced module system and component architecture that substantially improved maintainability and long-term scalability
+- **24/7 heavy data processing** — Designed background job pipelines using Laravel Queues for large-volume real-time report generation across 100+ concurrent enterprise tenants without downtime
+- **Service decomposition** — Built dedicated reporting service (MongoDB aggregation), notification service, and SOP service — decoupling heavy reads from the transactional database
+- **Multi-tenant SaaS architecture** — Built tenant-scoped data isolation and role-based access control supporting diverse enterprise clients at scale
+- **Database optimisation** — Optimised heavy-load MySQL and MongoDB queries; implemented indexing strategies for high-throughput APIs handling millions of records
+- **AWS & DevOps** — Monitored application health using AWS tools; contributed to CI/CD pipeline design and deployment automation across environments
+- **Python & RAG applications** — Built FastAPI-based market intelligence and benchmark services; designed Retrieval-Augmented Generation (RAG) pipelines using LangChain, vector databases (Pinecone), and LLM APIs to power document Q&A and intelligent search over enterprise data
+
+`Laravel` `React.js` `Next.js` `TypeScript` `Node.js` `Python` `FastAPI` `LangChain` `MySQL` `MongoDB` `Redis` `RabbitMQ` `Docker` `AWS`
+
+---
+
+### SoftArch · Software Engineer
+
+**2021 – 2022 · Dhaka, Bangladesh**
+
+- Built **GirlyShopper** — a full-featured e-commerce platform (70k+ consumers) with multi-store inventory management, POS integration, barcode-based stock tracking, and checkout optimisation
+- Developed **Grocery** — a scalable daily goods platform with real-time inventory tracking, automated restocking, order scheduling, and multi-store availability management
+- Implemented custom shopping features (wishlists, cart, size charts, availability checks) to improve purchase conversion
+- Configured and managed VPS servers; set up CI/CD pipelines for automated testing and deployment
+
+`Laravel` `Vue.js` `MySQL` `Docker` `VPS` `CI/CD`
+
+---
+
+### Am Coders · Software Engineer
+
+**2021 · Dhaka, Bangladesh** _(Intern → Full-time in 1 month)_
+
+- Designed and built a complete **CodeCanyon SaaS product** with subscription management, multi-tenant architecture, and clean API design
+- Integrated payment gateways and built core SaaS features including billing flows and RBAC
+- Promoted from intern to full-time within **1 month** based on performance
+
+`Laravel` `Vue.js` `Payment Gateways`
+
+---
+
+## Projects
+
+**[Point of Sale (POS) System](https://github.com/komol-chandra/point-of-sell)**
+Lightweight POS system built with Node.js, Express, and React.js — manages products, customers, and orders via RESTful APIs. Designed for small businesses handling inventory and sales efficiently.
+
+**RAG Document Intelligence**
+Built a Retrieval-Augmented Generation pipeline using Python, LangChain, and Pinecone — enables semantic search and natural language Q&A over large enterprise document sets. Chunks, embeds, and retrieves relevant context before passing to an LLM for grounded answers.
+
+---
+
+## Education
+
+**BSc in Computer Science & Engineering** — 2021 – 2025
+Bangladesh University of Business & Technology, Dhaka
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=komol-chandra&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komol-chandra&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to senior/lead engineering roles in SaaS, distribution systems, and multi-tenant enterprise platforms.</sub>
+</div>
